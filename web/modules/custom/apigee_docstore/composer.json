@@ -1,0 +1,15 @@
+{
+    "name": "drupal/apigee_docstore",
+    "description": "Allows integration of the specs defined in Apigee Docstore into the portal",
+    "type": "drupal-module",
+    "license": "GPL-2.0",
+    "require": {
+        "php": ">=7.1",
+        "drupal/apigee_edge": "^1.0"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

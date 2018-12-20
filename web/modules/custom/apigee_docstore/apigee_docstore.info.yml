@@ -1,0 +1,10 @@
+name: 'Apigee Docstore integration'
+type: module
+description: 'Allows integration of the specs defined in Apigee Docstore into the portal'
+package: Apigee
+version: 1.x-dev
+core: 8.x
+project: 'apigee_edge'
+
+dependencies:
+  - apigee_edge:apigee_edge

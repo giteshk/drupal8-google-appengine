@@ -1,0 +1,5 @@
+<?php
+
+
+//require __DIR__ . "/src/Flysystem/GoogleCloudStorage.php";
+//use Drupal\flysystem_gcs\Flysystem\GoogleCloudStorage;
